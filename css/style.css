@@ -1,0 +1,14 @@
+
+
+body {
+    background-color: gainsboro;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.Site {
+  display: flex;
+  min-height: 92vh;
+  flex-direction: column;
+/*    border: 1px solid black;*/
+}
